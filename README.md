@@ -23,7 +23,7 @@ O **Previsão do Tempo** exibe informações climáticas precisas, como **temper
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/previsao-do-tempo.git
+   git clone https://github.com/cezardsilva/previsao-do-tempo.git
 
 2. Abra o arquivo [Previsão do Tempo](https://previsao-do-tempo-br.netlify.app/)  
     em um navegador.
