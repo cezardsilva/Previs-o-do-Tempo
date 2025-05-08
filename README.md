@@ -40,7 +40,7 @@ O **Previsão do Tempo** exibe informações climáticas precisas, como **temper
 
 📝 Licença
 
-Este projeto está sob a licença MIT. Veja mais detalhes em https://LICENSE
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 Desenvolvido por [Cezar D Silva](https://github.com/cezardsilva)
